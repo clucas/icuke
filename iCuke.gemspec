@@ -5,25 +5,23 @@
 
 Gem::Specification.new do |s|
   s.name = %q{iCuke}
-  s.version = "0.6.2"
+  s.version = "0.6.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Rob Holland"]
-  s.date = %q{2010-09-09}
+  s.date = %q{2010-19-12}
   s.description = %q{Cucumber support for iPhone applications}
   s.email = %q{rob@the-it-refinery.co.uk}
   s.executables = [".gitignore", "icuke", "icuke-module"]
   s.extensions = ["ext/Rakefile"]
   s.extra_rdoc_files = [
     "LICENSE",
-    "README.rdoc"
   ]
   s.files = [
     ".gitignore",
     ".gitmodules",
     "History.txt",
     "LICENSE",
-    "README.rdoc",
     "Rakefile",
     "VERSION",
     "app/.gitignore",

@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.version = "0.6.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Rob Holland"]
-  s.date = %q{2010-19-12}
+  s.authors = ["Rob Holland, Christophe Lucas"]
+  s.date = %q{2010-12-19}
   s.description = %q{Cucumber support for iPhone applications}
   s.email = %q{rob@the-it-refinery.co.uk}
   s.executables = [".gitignore", "icuke", "icuke-module"]
